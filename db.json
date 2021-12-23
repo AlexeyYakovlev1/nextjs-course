@@ -1,0 +1,19 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "JavaScript post",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+        },
+        {
+            "id": 2,
+            "title": "Lorem post",
+            "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna."
+        },
+        {
+            "id": 3,
+            "title": "Английский перевод 1914 года, H. Rackham",
+            "body": "But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will."
+        }
+    ]
+}
